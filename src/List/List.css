@@ -1,0 +1,22 @@
+.toDoList{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.list{
+    text-decoration: none;
+}
+
+.item{
+    text-decoration: none;
+}
+
+.deleteTask{
+    background-color: unset;
+    border: unset;
+    font-size: 12px;
+    color:#e74c3c;
+    cursor: pointer;
+}

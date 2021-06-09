@@ -1,0 +1,10 @@
+.searchArea{
+    margin-top: 5px;
+    display:flex;
+    flex-flow: row nowrap;
+}
+
+.searchBtn{
+    margin-top: 5px;
+    font-size: 20px;
+}
